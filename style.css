@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(137, 197, 137);
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 24px;
+}
+
+.title {
+    font-size: 48px;
+}
+
+.list-item {
+    margin-bottom: 24px;
+    font-size: 24px;
+}
+
+input {
+    height: 32px;
+    background-color: transparent;
+    color: white;
+    border-color: rgb(26, 25, 25);
+    border-radius: 4px;
+    font-size: 16px;
+    padding: 8px;
+}
+
+button {
+    font-size: 16px;
+    padding: 16px;
+    background-color: rgb(232, 238, 232);
+    border-width: 0px;
+    border-radius: 4px;
+    color: rgb(70, 95, 70);
+    font-weight: bold;
+}
